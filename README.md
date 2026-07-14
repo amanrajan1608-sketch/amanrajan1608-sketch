@@ -10,7 +10,7 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 ### 💻 About Me
 
@@ -26,10 +26,10 @@ class AmanRajan:
         self.stack = ["Java", "Python", "C", "C++", "SQL", "ROS2"]
         self.web_stack = ["HTML", "CSS", "JS"]
         self.currently_learning = ["Data Science", "Gen AI"]
-        self.fun_fact = "I build Autonomous Surface Vehicles at my college club!"
+        self.fun_fact = "I build ASVs at my college robotics club!"
 
     def motto(self):
-        return "Build practical, user-centric solutions — one project at a time."
+        return "Build practical, user-centric solutions."
 
 
 me = AmanRajan()
