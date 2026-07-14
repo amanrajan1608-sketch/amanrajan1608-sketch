@@ -19,14 +19,14 @@ class AmanRajan:
     def __init__(self):
         self.name = "Aman Rajan"
         self.location = "Chennai, Tamil Nadu, India"
-        self.degree = "B.Tech - Computer Science and Business Systems"
-        self.college = "SRM Institute of Science and Technology"
+        self.degree = "B.Tech - CS & Business Systems"
+        self.college = "SRM Institute of Science and Tech"
         self.graduation_year = 2028
         self.cgpa = "9.07 / 10"
         self.stack = ["Java", "Python", "C", "C++", "SQL", "ROS2"]
-        self.web_stack = ["HTML", "CSS", "JavaScript"]
-        self.currently_learning = ["Data Science", "Generative AI", "ROS2 (Advanced)"]
-        self.fun_fact = "I work on Autonomous Surface Vehicles (ASV) at my college club!"
+        self.web_stack = ["HTML", "CSS", "JS"]
+        self.currently_learning = ["Data Science", "Gen AI"]
+        self.fun_fact = "I build Autonomous Surface Vehicles at my college club!"
 
     def motto(self):
         return "Build practical, user-centric solutions — one project at a time."
